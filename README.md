@@ -2,7 +2,7 @@
 
 # Boulder Holds
 
-This is an open-source Houdini project to generate boulder holds. Many ready-to-print STL files are availables to download.  
+This is an open-source Houdini project to generate boulder holds geometry to print in 3D. Many ready-to-print STL files are availables to download.  
 The main screw is a [CHC 10x50](https://euroholds.com/en/bolts/44-chc-10x50-8435561602363.html) and the other optional small ones are [PZ 4x40](https://www.demos-trade.eu/strongfix-screw-pz-4x40-with-countersunk-head-white-zinc-pz2/) wood screws.
 
 ## Installation
