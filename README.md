@@ -51,8 +51,8 @@ This is a quick visualizer to highlight thin parts of your geometry, can be bad 
 
 ## Library
 
-I generated [144 STL files](/main/samples) as a sample.  
-There are [4 examples of images](/main/assets/Shape) for the FromPic node. 
+I generated [144 STL files](/samples) as a sample.  
+There are [4 examples of images](/assets/Shape) for the FromPic node. 
 
 ## Contributing
 
