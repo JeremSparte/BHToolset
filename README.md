@@ -49,6 +49,11 @@ This is a quick visualizer to highlight thin parts of your geometry, can be bad 
 
 ![stillbananastruct](https://github.com/JeremSparte/BHToolset/assets/123566406/840e0336-839e-4b1d-8b50-725a88a05419)
 
+## Library
+
+I generated [144 STL files](/main/samples) as a sample.  
+There are [4 examples of images](/main/assets/Shape) for the FromPic node. 
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
