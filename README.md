@@ -1,8 +1,8 @@
 ![header](https://github.com/JeremSparte/BHToolset/assets/123566406/12acba29-f4ea-4faa-aa0b-88e106ee421a)
 
-# Boulder Holds
+## Description
 
-This is an open-source Houdini project to generate boulder holds. Many ready-to-print STL files are availables to download.  
+This is an open-source Houdini project to generate climbing holds geometry to print in 3D. Many ready-to-print STL files are availables to download.  
 The main screw is a [CHC 10x50](https://euroholds.com/en/bolts/44-chc-10x50-8435561602363.html) and the other optional small ones are [PZ 4x40](https://www.demos-trade.eu/strongfix-screw-pz-4x40-with-countersunk-head-white-zinc-pz2/) wood screws.
 
 ## Installation
@@ -39,7 +39,7 @@ It combines well with photogrammetry to transform day-to-day objects in boulder 
 
 ### BH Mold
 
-It is a straight forward tool, it transforms your bolder into a mold, ready to fill with resin.
+It is a straight forward tool, it transforms your climbing hold into a mold, ready to fill with whatever you want.
 
 ![stillbananamold](https://github.com/JeremSparte/BHToolset/assets/123566406/4850e644-5f57-4bd7-b4e3-a4f9382e983c)
 
