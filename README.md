@@ -35,24 +35,21 @@ This is the core tool, it transforms any 3d geometry in a hold. It split the geo
 You can have control on the screws positions. To preview them merge the two outputs.  
 It combines well with photogrammetry to transform day-to-day objects in boulder holds.
 
-![stillbanana](https://github.com/JeremSparte/BHToolset/assets/123566406/bab0f1e3-8ad9-4b09-8256-2f925854b015)
+![BananaHold](https://github.com/JeremSparte/BHToolset/assets/123566406/9f0f2716-bddb-4bdc-897e-262b4f20de45)
 
 ### BH Mold
 
 It is a straight forward tool, it transforms your climbing hold into a mold, ready to fill with whatever you want.
 
-![stillbananamold](https://github.com/JeremSparte/BHToolset/assets/123566406/4850e644-5f57-4bd7-b4e3-a4f9382e983c)
+![BananaMold](https://github.com/JeremSparte/BHToolset/assets/123566406/72dc683f-f81c-48d9-91cb-fb4c1ae9c46f)
 
 ### BH Structure viewer
 
 This is a quick visualizer to highlight thin parts of your geometry, can be bad to see too much blue !
 
-![stillbananastruct](https://github.com/JeremSparte/BHToolset/assets/123566406/840e0336-839e-4b1d-8b50-725a88a05419)
+![BananaStructure](https://github.com/JeremSparte/BHToolset/assets/123566406/f4977bf7-ccd7-4e00-bd3c-7a39825dbba0)
 
 ## Library
-
-I generated [144 STL files](/samples) as a sample.  
-There are [4 examples of images](/assets/Shape) for the FromPic node. 
 
 ![Render_ALL](https://github.com/JeremSparte/BHToolset/assets/123566406/0cf5bdaa-87e1-47c1-803f-646bf9c90632)
 
