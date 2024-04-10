@@ -2,7 +2,9 @@
 
 ## Description
 
-This is an open-source Houdini project to generate 3D printable climbing holds. Many ready-to-print STL files are availables to download.  
+This is an open-source Houdini project to generate 3D printable climbing holds.  
+Ready-to-print STL files are available to [download for free](#library).  
+  
 The main screw is a [CHC 10x50](https://euroholds.com/en/bolts/44-chc-10x50-8435561602363.html) and the other optional small ones are [PZ 4x40](https://www.demos-trade.eu/strongfix-screw-pz-4x40-with-countersunk-head-white-zinc-pz2/) wood screws.
 
 ## Installation
@@ -49,7 +51,7 @@ This is a quick visualizer to highlight thin parts of your geometry, can be bad 
 
 ![BananaStructure](https://github.com/JeremSparte/BHToolset/assets/123566406/f4977bf7-ccd7-4e00-bd3c-7a39825dbba0)
 
-## Library
+# Library
 
 ![Render_ALL](https://github.com/JeremSparte/BHToolset/assets/123566406/c5f0ce40-e5f4-4d90-b2e4-b6e08e77b858)
 ![RS_Collection](https://github.com/JeremSparte/BHToolset/assets/123566406/a2fb3eca-4365-4542-aca5-78a1d811679c)
