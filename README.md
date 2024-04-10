@@ -53,6 +53,8 @@ This is a quick visualizer to highlight thin parts of your geometry, can be bad 
 
 # Library
 
+[Download here !](https://www.thingiverse.com/sardou3d/designs)  
+
 ![Render_ALL](https://github.com/JeremSparte/BHToolset/assets/123566406/c5f0ce40-e5f4-4d90-b2e4-b6e08e77b858)
 ![RS_Collection](https://github.com/JeremSparte/BHToolset/assets/123566406/a2fb3eca-4365-4542-aca5-78a1d811679c)
 
