@@ -45,6 +45,12 @@ It is a straight forward tool, it transforms your climbing hold into a mold, rea
 
 ![BananaMold](https://github.com/JeremSparte/BHToolset/assets/123566406/72dc683f-f81c-48d9-91cb-fb4c1ae9c46f)
 
+### BH Hollow
+
+Allows you to make a hollow version of your hold to fill it later with the material of your choice.
+
+![BananaHollow](https://github.com/JeremSparte/BHToolset/assets/123566406/a1a3777a-fb83-47aa-9a6c-34bea8743997)
+
 ### BH Structure viewer
 
 This is a quick visualizer to highlight thin parts of your geometry, can be bad to see too much blue !
