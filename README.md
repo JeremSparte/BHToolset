@@ -59,12 +59,13 @@ This is a quick visualizer to highlight thin parts of your geometry, can be bad 
 
 # Library
 
-[Download here !](https://www.thingiverse.com/sardou3d/designs)  
+[Download here !](https://www.printables.com/@JeremyLAFAYE_2080610)  
 
 ![Render_ALL](https://github.com/JeremSparte/BHToolset/assets/123566406/c5f0ce40-e5f4-4d90-b2e4-b6e08e77b858)
 ![RS_Collection](https://github.com/JeremSparte/BHToolset/assets/123566406/a2fb3eca-4365-4542-aca5-78a1d811679c)
+![Library](https://github.com/JeremSparte/BHToolset/assets/123566406/9ca6f68e-fb67-4a3e-a38d-46cb724e4efd)
 
-All of these sample are fully generated from the tools and can be downloaded for free on [Thingiverse](https://www.thingiverse.com/sardou3d/designs) and [Cults3D](https://cults3d.com/en/users/SarDou3D).
+All of these sample are fully generated from the tools and can be downloaded for free on [Thingiverse](https://www.thingiverse.com/sardou3d/designs), [Printables](https://www.printables.com/@JeremyLAFAYE_2080610) and [Cults3D](https://cults3d.com/en/users/SarDou3D).
 
 ## Contributing
 
